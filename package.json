@@ -1,0 +1,24 @@
+﻿{
+  "name": "web-e2e-testing-project",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A beginner-friendly Playwright E2E testing project for common web testing practice.",
+  "scripts": {
+    "test": "playwright test",
+    "test:ui": "playwright test --ui",
+    "test:headed": "playwright test --headed",
+    "report": "playwright show-report"
+  },
+  "keywords": [
+    "playwright",
+    "e2e-testing",
+    "software-testing"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.2"
+  }
+}
