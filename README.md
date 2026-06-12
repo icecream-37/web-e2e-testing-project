@@ -99,8 +99,9 @@ D:\playwright
 - 缺陷报告示例：bug-reports/BUG-001-concurrent-connection-closed.md
 - 项目学习笔记与面试讲解：docs/project-notes.md
 
-## 简历描述
+## 项目亮点
 
-```text
-基于 Playwright + TypeScript 搭建 Web E2E 自动化测试项目，围绕电商网站登录、商品列表、商品详情、商品排序、购物车、结账及异常输入等场景设计并实现 12 条自动化测试用例，支持 HTML 测试报告、失败截图和 Trace 调试，并整理测试用例文档、缺陷报告模板和测试总结报告。
-```
+- 基于 Playwright + TypeScript 编写 12 条 Web E2E 自动化测试用例，覆盖登录、商品列表、商品详情、商品排序、购物车、结账及异常输入场景。
+- 配置 HTML 测试报告、失败截图和 Trace 调试，支持测试失败后的问题定位。
+- 编写测试用例文档、缺陷报告模板、缺陷报告示例和测试总结报告，模拟完整测试交付流程。
+
